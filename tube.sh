@@ -24,3 +24,4 @@ echo "Pour more info, telegram @za3imPro"
 echo " GoooooD LucK "  | lolcat
 cd $HOME
 rm -rif ytvideos
+cd $HOME
