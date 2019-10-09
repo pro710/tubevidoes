@@ -1,14 +1,15 @@
-#ytvideos
+# ytvideos
 
-#download videos from youtube 
+# download videos from youtube 
+## How to Use
 
-pkg install git
++ pkg install git -y
 
-git clone https://github.com/za3imPro/ytvideos.git
++ git clone https://github.com/za3imPro/ytvideos.git
 
-cd ytvideos
++ cd ytvideos
 
-bash tube.sh
++ bash tube.sh
 
 
 
