@@ -1,12 +1,12 @@
 termux-setup-storage
 apt update && apt upgrade -y
-pkg install python python2 ruby ffmpeg wget nano curl git -y
+pkg install python python2 ruby ffmpeg wget nano curl git toilet -y
 gem install lolcat
 pip install youtube-dl
 mkdir /sdcard/Videos
 mkdir -p ~/.config/youtube-dl
 mkdir ~/bin
-wget https://pastebin.com/raw/SwhieysW -O ~/bin/termux-url-opener
+wget https://pastebin.com/raw/ETCPmqxZ -O ~/bin/termux-url-opener
 dos2unix ~/bin/termux-url-opener
 clear
 echo "Installation Succes" | lolcat
@@ -24,4 +24,4 @@ echo "Pour more info, telegram @za3imPro"
 echo " GoooooD LucK "  | lolcat
 cd $HOME
 rm -rif ytvideos
-cd
+
