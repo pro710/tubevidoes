@@ -6,7 +6,7 @@ pip install youtube-dl
 mkdir /sdcard/Videos
 mkdir -p ~/.config/youtube-dl
 mkdir ~/bin
-wget https://pastebin.com/raw/ETCPmqxZ -O ~/bin/termux-url-opener
+wget https://raw.githubusercontent.com/za3imPro/ytvideos/d66655177ae2644128ccbc13d2d81b491f6942e1/opener -O ~/bin/termux-url-opener
 dos2unix ~/bin/termux-url-opener
 clear
 echo "Installation Succes" | lolcat
