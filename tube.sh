@@ -22,9 +22,9 @@ echo "bi dabt fi wahd dossier ismo Videos" | lolcat
 echo "=======ZA3IM======"
 echo "Pour more info, telegram @za3imPro"
 echo " GoooooD LucK "  | lolcat
-echo "Confirmed 2021/2022" lolcat
-echo "Welcome to Za3imPro Channel " lolcat
-echo "Dima MaGhreb " lolcat
+echo "Confirmed 2021/2022"  | lolcat
+echo "Welcome to Za3imPro Channel " | lolcat
+echo "Dima MaGhreb " | lolcat
 cd $HOME
 rm -rif ytvideos
 
